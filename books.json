@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Review Sách "Sông Đông Êm Đềm" - Tác phẩm kinh điển về tình yêu và chiến tranh",
+    "author": "Mikhail Sholokhov",
+    "description": "Khám phá "Sông Đông Êm Đềm" - kiệt tác đoạt giải Nobel Văn học của Mikhail Sholokhov. Tìm hiểu câu chuyện đầy cảm xúc về tình yêu, chiến tranh, và những biến động lịch sử, cùng với phong cách viết đặc sắc của nhà văn Nga.",
+    "url": "/review-sach-song-djong-em-djem-tac-pham-kinh-djien-ve-tinh-yeu-va-chien-tranh"
+  },
+  {
+    "title": "Review Sách: Nhật Ký Đặng Thùy Trâm – Biểu Tượng Về Tình Yêu, Lý Tưởng Và Sự Hy Sinh",
+    "author": "Đặng Thùy Trâm",
+    "description": ""Nhật Ký Đặng Thùy Trâm" một tác phẩm xúc động ghi lại cuộc đời, lý tưởng và sự hy sinh cao cả của một nữ bác sĩ quân y trong chiến tranh Việt Nam. Cùng tìm hiểu thêm những cuốn sách có nội dung tương tự để hiểu sâu hơn về giai đoạn lịch sử đầy đau thương nhưng anh dũng này.",
+    "url": "/review-sach-nhat-ky-djang-thuy-tram-bieu-tuong-ve-tinh-yeu-ly-tuong-va-su-hy-sinh"
+  },
+  {
+    "title": "Review Sách: Nỗi Buồn Chiến Tranh – Bức Tranh Bi Thương Về Cuộc Sống và Chiến Tranh",
+    "author": "Bảo Ninh",
+    "description": "Khám phá "Nỗi Buồn Chiến Tranh", tác phẩm xuất sắc của Bảo Ninh – cuốn tiểu thuyết đầy ám ảnh về những mất mát, tổn thương và hậu quả tâm lý của chiến tranh đối với con người.",
+    "url": "/review-sach-noi-buon-chien-tranh-buc-tranh-bi-thuong-ve-cuoc-song-va-chien-tranh"
+  },
+  {
+    "title": "Đọc Sách Hiệu Quả",
+    "author": "Phạm Minh D",
+    "description": "Cuốn sách này chia sẻ các phương pháp và kỹ thuật giúp bạn đọc sách hiệu quả, nhớ lâu và ứng dụng vào công việc.",
+    "url": "/books/doc-sach-hieu-qua"
+  },
+  {
+    "title": "Lập Trình Web Full-Stack",
+    "author": "Hoàng Thị E",
+    "description": "Hướng dẫn xây dựng ứng dụng web toàn diện từ frontend đến backend, với các công nghệ hiện đại như React, Node.js.",
+    "url": "/books/lap-trinh-web-full-stack"
+  },
+  {
+    "title": "Kỹ Năng Giao Tiếp Xã Hội",
+    "author": "Nguyễn Thị F",
+    "description": "Cuốn sách này cung cấp các kỹ năng cần thiết để giao tiếp hiệu quả trong xã hội, từ các tình huống giao tiếp hàng ngày đến trong công việc.",
+    "url": "/books/ky-nang-giao-tiep-xa-hoi"
+  }
+]
