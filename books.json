@@ -432,10 +432,142 @@
     "url": "/review-sach-21-bai-hoc-cho-the-ky-21-goc-nhin-sau-sac-ve-tuong-lai-nhan-loai"
   },
   {
-    "title": "Review sách: Frankenstein – Mary Shelley",
-    "author": "Mary Shelley",
-    "description": "Frankenstein.",
-    "url": "/review-sach-frankenstein-mary-shelley-copy"
+    "title": "Phương Pháp Pomodoro: Tăng Năng Suất Làm Việc Trong 25 Phút",
+    "author": "Sách và tri thức",
+    "description": "Phương pháp Pomodoro sẽ giúp bạn làm việc một cách hiệu quả hơn, chỉ cần dành 25 phút tập trung hoàn toàn vào một công việc trước khi nghỉ ngắn. Đây là kỹ thuật quản lý thời gian được nhiều người yêu thích nhờ tính đơn giản và dễ thực hiện.",
+    "url": "/phuong-phap-pomodoro-tang-nang-suat-lam-viec-trong-25-phut"
+  },
+  {
+    "title": "5 Kỹ Năng Quan Trọng Giúp Bạn Thành Công Trong Công Việc Và Cuộc Sống",
+    "author": "Sách và tri thức",
+    "description": "Trong cuộc sống hiện đại, thành công không chỉ được đo lường qua tài năng hay trình độ học vấn mà còn qua những kỹ năng mềm mà bạn sở hữu. Kỹ năng mềm là những yếu tố giúp bạn xây dựng mối quan hệ, làm việc hiệu quả và đối mặt với thách thức.",
+    "url": "/5-ky-nang-quan-trong-giup-ban-thanh-cong-trong-cong-viec-va-cuoc-song"
+  },
+  {
+    "title": "Kỹ năng Giao Tiếp Hiệu Quả: Bí Quyết Để Thành Công Trong Cuộc Sống",
+    "author": "Sách và tri thức",
+    "description": "Giao tiếp hiệu quả là một kỹ năng quan trọng, không chỉ giúp bạn kết nối với mọi người mà còn mở ra nhiều cơ hội trong công việc và cuộc sống.",
+    "url": "/ky-nang-giao-tiep-hieu-qua-bi-quyet-dje-thanh-cong-trong-cuoc-song"
+  },
+  {
+    "title": "Ma Trận Eisenhower – Phương Pháp Quản Lý Thời Gian Hiệu Quả",
+    "author": "Sách và tri thức",
+    "description": "Ma trận Eisenhower là một công cụ quản lý thời gian mạnh mẽ, giúp bạn phân loại và ưu tiên các nhiệm vụ hàng ngày để làm việc hiệu quả hơn.",
+    "url": "/ma-tran-eisenhower-phuong-phap-quan-ly-thoi-gian-hieu-qua"
+  },
+  {
+    "title": "Những kỹ năng quan trọng không thể thiếu nếu bạn muốn làm giàu",
+    "author": "Sách và tri thức",
+    "description": "Sự giàu có và thành công về tài chính không chỉ đến từ may mắn mà còn là kết quả của việc rèn luyện các kỹ năng thiết yếu.",
+    "url": "/nhung-ky-nang-quan-trong-khong-the-thieu-neu-ban-muon-lam-giau"
+  },
+  {
+    "title": "5 Bước Để Tạo Một Thói Quen Tốt Trong 21 Ngày",
+    "author": "Sách và tri thức",
+    "description": "Thói quen là chìa khóa giúp bạn duy trì hiệu quả và đạt được những mục tiêu lớn trong cuộc sống.",
+    "url": "/5-buoc-dje-tao-mot-thoi-quen-tot-trong-21-ngay"
+  },
+  {
+    "title": "7 Thói Quen Chi Tiêu Giúp Bạn Tiết Kiệm Được 30% Thu Nhập Mỗi Tháng",
+    "author": "Sách và tri thức",
+    "description": "Tiết kiệm và quản lý tài chính cá nhân hiệu quả là chìa khóa để đạt được sự ổn định về kinh tế và tự do tài chính.",
+    "url": "/7-thoi-quen-chi-tieu-giup-ban-tiet-kiem-djuoc-30percent-thu-nhap-moi-thang"
+  },
+  {
+    "title": "Mẹo Dạy Dỗ Con Cái Hiệu Quả: Bí Quyết Nuôi Dưỡng Và Giáo Dục Trẻ Tốt Nhất",
+    "author": "Sách và tri thức",
+    "description": "Dạy dỗ con cái là một hành trình đầy thách thức nhưng cũng tràn ngập niềm vui và sự tự hào.",
+    "url": "/meo-day-do-con-cai-hieu-qua-bi-quyet-nuoi-duong-va-giao-duc-tre-tot-nhat"
+  },
+  {
+    "title": "Mẹo Làm Việc Từ Xa Hiệu Quả: Tối Ưu Thời Gian Và Nâng Cao Năng Suất",
+    "author": "Sách và tri thức",
+    "description": "Làm việc từ xa đang ngày càng phổ biến, nhưng để làm việc hiệu quả ở môi trường ngoài văn phòng đòi hỏi bạn cần có kế hoạch và kỹ năng tổ chức.",
+    "url": "/meo-lam-viec-tu-xa-hieu-qua-toi-uu-thoi-gian-va-nang-cao-nang-suat"
+  },
+  {
+    "title": "Những Bài Học Đắt Giá Giúp Bạn Trưởng Thành Hơn",
+    "author": "Sách và tri thức",
+    "description": "Giới thiệu: Cuộc sống là một chuỗi các trải nghiệm, và mỗi trải nghiệm mang lại những bài học quý giá giúp chúng ta trưởng thành.",
+    "url": "/nhung-bai-hoc-djat-gia-giup-ban-truong-thanh-hon"
+  },
+  {
+    "title": "Top 7 Câu Hỏi Phỏng Vấn Hóc Búa và Cách Trả Lời Xuất Sắc",
+    "author": "Sách và tri thức",
+    "description": "Khi đi phỏng vấn xin việc, bạn không chỉ phải đối mặt với các câu hỏi dễ dàng về kinh nghiệm và kỹ năng.",
+    "url": "/top-7-cau-hoi-phong-van-hoc-bua-va-cach-tra-loi-xuat-sac"
+  },
+  {
+    "title": "Top 10 Kỹ Năng Tự Tin Trước Đám Đông: Bí Quyết Thuyết Trình Hiệu Quả",
+    "author": "Sách và tri thức",
+    "description": "Có thể bạn muốn phát biểu trong một cuộc họp, trình bày dự án, hoặc chỉ đơn giản là giao tiếp với một nhóm người, nhưng sự tự tin lại không có mặt.",
+    "url": "/top-10-ky-nang-tu-tin-truoc-djam-djong-bi-quyet-thuyet-trinh-hieu-qua"
+  },
+  {
+    "title": "Những cuốn sách hay giúp phát triển tư duy và kỹ năng mềm",
+    "author": "Sách và tri thức",
+    "description": "Khám phá 10 cuốn sách hay giúp phát triển tư duy và kỹ năng mềm như giao tiếp, tập trung, quản lý thời gian. Hành trình nâng cao năng lực của bạn bắt đầu tại đây.",
+    "url": "/nhung-cuon-sach-hay-giup-phat-trien-tu-duy-va-ky-nang-mem"
+  },
+  {
+    "title": "Top Xu Hướng Đọc Sách Năm 2024",
+    "author": "Sách và tri thức",
+    "description": "Năm 2024 đánh dấu sự phát triển mạnh mẽ của nhiều xu hướng đọc sách mới khi độc giả tìm kiếm các tác phẩm không chỉ để giải trí mà còn để phát triển bản thân và khám phá những khía cạnh mới của cuộc sống.",
+    "url": "/top-xu-huong-djoc-sach-nam-2024"
+  },
+  {
+    "title": "Top các cuốn sách kinh điển mà mọi người nên đọc ít nhất một lần",
+    "author": "Sách và tri thức",
+    "description": "Nhắc đến sách kinh điển, chắc hẳn chúng ta sẽ nghĩ ngay đến những tác phẩm vượt thời gian, không chỉ bởi giá trị văn học mà còn bởi những thông điệp sâu sắc mà chúng mang lại.",
+    "url": "/top-cac-cuon-sach-kinh-djien-ma-moi-nguoi-nen-djoc-it-nhat-mot-lan"
+  },
+  {
+    "title": "Những bài học rút ra từ các tiểu thuyết nổi tiếng",
+    "author": "Sách và tri thức",
+    "description": "Những cuốn tiểu thuyết không chỉ đưa chúng ta vào thế giới tưởng tượng đầy màu sắc mà còn chứa đựng nhiều bài học sâu sắc về cuộc sống, con người và xã hội.",
+    "url": "/nhung-bai-hoc-rut-ra-tu-cac-tieu-thuyet-noi-tieng"
+  },
+  {
+    "title": "Những nhà văn nổi tiếng thế giới và phong cách viết",
+    "author": "Sách và tri thức",
+    "description": "Văn học thế giới chứng kiến sự ra đời của nhiều nhà văn nổi tiếng với phong cách viết độc đáo và tạo nên những tác phẩm để đời.",
+    "url": "/nhung-nha-van-noi-tieng-the-gioi-va-phong-cach-viet"
+  },
+  {
+    "title": "Những Cuốn Sách Làm Thay Đổi Tư Duy Của Tôi",
+    "author": "Sách và tri thức",
+    "description": "Có những cuốn sách không chỉ đơn thuần là nguồn kiến thức mà còn trở thành người thầy tinh thần, làm thay đổi cách tôi nhìn nhận về cuộc sống, con người, và chính bản thân mình.",
+    "url": "/nhung-cuon-sach-lam-thay-djoi-tu-duy-cua-toi"
+  },
+  {
+    "title": "Review sách về tài chính cá nhân và đầu tư thông minh",
+    "author": "Sách và tri thức",
+    "description": "Trong thế giới hiện đại, kiến thức về tài chính cá nhân và đầu tư đóng vai trò vô cùng quan trọng trong việc đảm bảo cuộc sống ổn định và bền vững.",
+    "url": "/review-sach-ve-tai-chinh-ca-nhan-va-djau-tu-thong-minh"
+  },
+  {
+    "title": "Những Cuốn Sách Khám Phá Nội Tâm Và Cải Thiện Sức Khỏe Tinh Thần",
+    "author": "Sách và tri thức",
+    "description": "Trong thế giới hiện đại với nhịp sống hối hả, việc chăm sóc sức khỏe tinh thần và tìm hiểu bản thân đã trở nên cần thiết hơn bao giờ hết.",
+    "url": "/nhung-cuon-sach-kham-pha-noi-tam-va-cai-thien-suc-khoe-tinh-than"
+  },
+  {
+    "title": "Sách Hay Về Cuộc Đời Và Thành Công: Bài Học Từ Các Doanh Nhân",
+    "author": "Sách và tri thức",
+    "description": "Những cuốn sách viết về cuộc đời và thành công của các doanh nhân nổi tiếng không chỉ là câu chuyện về sự nghiệp mà còn chứa đựng những bài học, triết lý sống và chiến lược kinh doanh mà họ đã sử dụng để vượt qua thử thách và đạt được thành công. Thông qua các trang sách, độc giả có thể hiểu rõ hơn về hành trình, ý chí kiên cường, và những đức tính quan trọng giúp họ đạt được vị trí hàng đầu.",
+    "url": "/sach-hay-ve-cuoc-djoi-va-thanh-cong-bai-hoc-tu-cac-doanh-nhan"
+  },
+  {
+    "title": "Top Những Câu Nói Bất Hủ Trong Các Cuốn Sách Kinh Điển",
+    "author": "Sách và tri thức",
+    "description": "Những câu nói bất hủ trong các tác phẩm kinh điển thường chứa đựng những bài học sâu sắc và góc nhìn tinh tế về cuộc sống, tình yêu, và triết lý nhân sinh.",
+    "url": "/top-nhung-cau-noi-bat-hu-trong-cac-cuon-sach-kinh-djien"
+  },
+  {
+    "title": "Tại sao đọc sách 20 phút mỗi ngày có thể thay đổi cuộc đời bạn?",
+    "author": "Sách và tri thức",
+    "description": "Chỉ cần 20 phút mỗi ngày để đọc sách, bạn sẽ ngạc nhiên trước những thay đổi tích cực mà thói quen này mang lại.",
+    "url": "/tai-sao-djoc-sach-20-phut-moi-ngay-co-the-thay-djoi-cuoc-djoi-ban"
   },
   {
     "title": "Review sách: Frankenstein – Mary Shelley",
