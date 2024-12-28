@@ -1,82 +1,42 @@
 [
-  {
-    "title": "Review Sách Sông Đông Êm Đềm - Tác phẩm kinh điển về tình yêu và chiến tranh",
-    "author": "Mikhail Sholokhov",
-    "url": "/review-sach-song-djong-em-djem-tac-pham-kinh-djien-ve-tinh-yeu-va-chien-tranh"
-  },
-  {
-    "title": "Review Sách: Nhật Ký Đặng Thùy Trâm – Biểu Tượng Về Tình Yêu, Lý Tưởng Và Sự Hy Sinh",
-    "author": "Đặng Thùy Trâm",
-    "url": "/review-sach-nhat-ky-djang-thuy-tram-bieu-tuong-ve-tinh-yeu-ly-tuong-va-su-hy-sinh"
-  },
-  {
-    "title": "Review Sách: Nỗi Buồn Chiến Tranh – Bức Tranh Bi Thương Về Cuộc Sống và Chiến Tranh",
-    "author": "Bảo Ninh",
-    "url": "/review-sach-noi-buon-chien-tranh-buc-tranh-bi-thuong-ve-cuoc-song-va-chien-tranh"
-  },
-  {
-    "title": "Review Sách Ba Người Lính Ngự Lâm - Hành Trình Anh Hùng và Tình Bạn Trung Thành",
-    "author": "Alexandre Dumas",
-    "url": "/review-sach-ba-nguoi-linh-ngu-lam-hanh-trinh-anh-hung-va-tinh-ban-trung-thanh"
-  },
-  {
-    "title": "Review Sách: Những Người Khốn Khổ – Bản Hùng Ca Của Lòng Nhân Đạo",
-    "author": "Victor Hugo",
-    "url": "/review-sach-nhung-nguoi-khon-kho-ban-hung-ca-cua-long-nhan-djao"
-  },
-  {
-    "title": "Review Sách: Hai Số Phận – Cuộc Đời, Thù Hận và Sự Thành Công",
-    "author": "Jeffrey Archer",
-    "url": "/review-sach-hai-so-phan-cuoc-djoi-thu-han-va-su-thanh-cong"
-  },
-  {
-    "title": "Review Sách: Tên của đóa hồng – Hành Trình Tìm Kiếm Chân Lý Trong Bóng Tối",
-    "author": "Umberto Eco",
-    "url": "/review-sach-ten-cua-djoa-hong-hanh-trinh-tim-kiem-chan-ly-trong-bong-toi"
-  },
-  {
-    "title": "Review Sách Đôn Kihote Don Quixote- Hành Trình Của Một Lý Tưởng Cao Cả",
-    "author": "Miguel de Cervantes",
-    "url": "/review-sach-djon-kihote-don-quixote-hanh-trinh-cua-mot-ly-tuong-cao-ca"
-  },
-  {
-    "title": "Review Sách Tiếng Gọi Nơi Hoang Dã - Hành Trình Tìm Lại Chính Mình",
-    "author": "Jack London",
-    "url": "/review-sach-tieng-goi-noi-hoang-da-hanh-trinh-tim-lai-chinh-minh"
-  },
-  {
-    "title": "Review Sách: Chiến Binh Cầu Vồng – Andrea Hirata",
-    "author": "Andrea Hirata",
-    "url": "/review-sach-chien-binh-cau-vong-andrea-hirata"
-  },
-  {
-    "title": "Review Sách: Ngôi Nhà Xanh Thẫm Bên Bờ Biển – T.J. Klune",
-    "author": "T.J. Klune",
-    "url": "/review-sach-ngoi-nha-xanh-tham-ben-bo-bien-tj-klune"
-  },
-  {
-    "title": "Review Sách: Thiên Thần và Ác Quỷ – Sự Đan Xen Của Khoa Học, Tôn Giáo và Âm Mưu",
-    "author": "Dan Brown",
-    "url": "/review-sach-thien-than-va-ac-quy-su-djan-xen-cua-khoa-hoc-ton-giao-va-am-muu"
-  },
-  {
-    "title": "Review Sách: Xứ Cát – Cuộc Chiến Vì Sự Sống Và Khát Vọng Thống Trị",
-    "author": "Frank Herbert",
-    "url": "/review-sach-xu-cat-cuoc-chien-vi-su-song-va-khat-vong-thong-tri"
-  },
-  {
-    "title": "Review sách: Thư Viện Nửa Đêm - Matt Haig",
-    "author": "Matt Haig",
-    "url": "/review-sach-thu-vien-nua-djem-matt-haig"
-  },
-  {
-    "title": "Review Sách: Trên Cây Cầu Đổ Nát – Hành Trình Của Niềm Tin và Sức Mạnh Nội Tâm",
-    "author": "Padma Venkatraman",
-    "url": "/review-sach-tren-cay-cau-djo-nat-hanh-trinh-cua-niem-tin-va-suc-manh-noi-tam"
-  },
-  {
-    "title": "Review Sách: Người Đua Diều - Khaled Hosseini",
-    "author": "Khaled Hosseini",
-    "url": "/review-sach-nguoi-djua-dieu-khaled-hosseini"
-  }
+    {
+        "title": "Những Cuốn Sách Làm Thay Đổi Tư Duy Của Tôi",
+        "url": "https://sachvatrithuc.com/nhung-cuon-sach-lam-thay-doi-tu-duy-cua-toi"
+    },
+    {
+        "title": "Top các cuốn sách kinh điển mà mọi người nên đọc ít nhất một lần",
+        "url": "https://sachvatrithuc.com/top-cac-cuon-sach-kinh-dien-ma-moi-nguoi-nen-doc-it-nhat-mot-lan"
+    },
+    {
+        "title": "Hướng dẫn lựa chọn sách phù hợp",
+        "url": "https://yourblog.com/luachon-sach-phu-hop"
+    },
+    {
+        "title": "Những cuốn sách hay giúp phát triển tư duy và kỹ năng mềm",
+        "url": "https://sachvatrithuc.com/nhung-cuon-sach-hay-giup-phat-trien-tu-duy-va-ky-nang-mem"
+    },
+    {
+        "title": "Top 10 Cuốn Sách Truyền Cảm Hứng Giúp Bạn Tìm Thấy Sự Lạc Quan Trong Cuộc Sống",
+        "url": "https://sachvatrithuc.com/top-10-cuon-sach-truyen-cam-hung-giup-ban-tim-thay-su-lac-quan-trong-cuoc-song"
+    },
+    {
+        "title": "Sách Hay Về Cuộc Đời Và Thành Công: Bài Học Từ Các Doanh Nhân",
+        "url": "https://sachvatrithuc.com/sach-hay-ve-cuoc-doi-va-thanh-cong-bai-hoc-tu-cac-doanh-nhan"
+    },
+    {
+        "title": "Review sách về tài chính cá nhân và đầu tư thông minh",
+        "url": "https://sachvatrithuc.com/review-sach-ve-tai-chinh-ca-nhan-va-dau-tu-thong-minh"
+    },
+    {
+        "title": "Tại sao đọc sách 20 phút mỗi ngày có thể thay đổi cuộc đời bạn?",
+        "url": "https://sachvatrithuc.com/tai-sao-doc-sach-20-phut-moi-ngay-co-the-thay-doi-cuoc-doi-ban"
+    },
+    {
+        "title": "Top Những Câu Nói Bất Hủ Trong Các Cuốn Sách Kinh Điển",
+        "url": "https://sachvatrithuc.com/top-nhung-cau-noi-bat-hu-trong-cac-cuon-sach-kinh-dien"
+    },
+    {
+        "title": "Những bài học rút ra từ các tiểu thuyết nổi tiếng",
+        "url": "https://sachvatrithuc.com/nhung-bai-hoc-rut-ra-tu-cac-tieu-thuyet-noi-tieng"
+    }
 ]
