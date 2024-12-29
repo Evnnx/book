@@ -226,5 +226,755 @@
     "title2": "",
     "author": "Nguyễn Nhật Ánh",
     "url": "/cho-toi-xin-1-ve-di-tuoi-tho-nguyen-nhat-anh"
+  },
+  {
+    "title1": "Nhà giả Kim",
+    "title2": "The Alchemist",
+    "author": "Paulo Coelho",
+    "url": "/nha-gia-kim-the-alchemist-paulo-coelho"
+  },
+  {
+    "title1": "Đắc nhân tâm",
+    "title2": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "url": "/dac-nhan-tam-how-to-win-friends-and-influence-people-dale-carnegie"
+  },
+  {
+    "title1": "7 Thói quen hiệu quả",
+    "title2": "The 7 Habits of Highly Effective People",
+    "author": "Stephen R. Covey ",
+    "url": "/7-thoi-quen-hieu-qua-the-7-habits-of-highly-effective-people-stephen-r-covey"
+  },
+  {
+    "title1": "Sức mạnh của hiện tại",
+    "title2": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "url": "/sức-manh-cua-hien-tai-the-power-of-now-eckhart-tolle"
+  },
+  {
+    "title1": "Dám nghĩ lớn",
+    "title2": "The Magic of Thinking Big",
+    "author": "David J. Schwartz",
+    "url": "/dam-nghi-lon-the-magic-of-thinking-big-david-j-schwartz"
+  },
+  {
+    "title1": "Sức mạnh tiềm thức",
+    "title2": "The Power of the Subconscious Mind",
+    "author": "Joseph Murphy",
+    "url": "/sức-manh-tiem-thức-the-power-of-the-subconscious-mind-joseph-murphy"
+  },
+  {
+    "title1": "Tâm lý học thành công",
+    "title2": " The New Psychology Of Success",
+    "author": "Carol S. Dweck",
+    "url": "/tam-ly-hoc-thanh-cong- the-new-psychology-of-success-carol-s-dweck"
+  },
+  {
+    "title1": "Sức mạnh của tập trung",
+    "title2": "The Power of Focus",
+    "author": "Jack Canfield, Mark Victor Hansen, và Les Hewitt",
+    "url": "/sức-manh-cua-tap-trung-the-power-of-focus-jack-canfield-mark-victor-hansen-va-les-hewitt"
+  },
+  {
+    "title1": "Thức tỉnh mục đích sống",
+    "title2": "A New Earth",
+    "author": "Eckhart Tolle",
+    "url": "/thức-tinh-muc-dich-song-a-new-earth-eckhart-tolle"
+  },
+  {
+    "title1": "Làm chủ tư duy thay đổi vận mệnh",
+    "title2": "Master Your Mind, Design Your Destiny",
+    "author": "Adam Khoo",
+    "url": "/lam-chu-tu-duy-thay-doi-van-menh-master-your-mind-design-your-destiny-adam-khoo"
+  },
+  {
+    "title1": "Bốn thỏa ước",
+    "title2": "The Four Agreements",
+    "author": "Janet Mills và Don Miguel Ruiz",
+    "url": "/bon-thoa-uoc-the-four-agreements-janet-mills-va-don-miguel-ruiz"
+  },
+  {
+    "title1": "Bắt đầu với câu hỏi tại sao",
+    "title2": "Start with Why",
+    "author": "Simon Sinek",
+    "url": "/bat-dau-voi-cau-hoi-tai-sao-start-with-why-simon-sinek"
+  },
+  {
+    "title1": "Buổi sáng diệu kỳ",
+    "title2": "The Miracle Morning",
+    "author": "Hal Elrod",
+    "url": "/buoi-sang-dieu-ky-the-miracle-morning-hal-elrod"
+  },
+  {
+    "title1": "Làm ra làm chơi ra chơi",
+    "title2": "Deep work",
+    "author": "Cal Newport",
+    "url": "/lam-ra-lam-choi-ra-choi-deep-work-cal-newport"
+  },
+  {
+    "title1": "Quẳng gánh lo đi và vui sống",
+    "title2": "How to Stop Worrying and Start Living",
+    "author": "Dale Carnegie",
+    "url": "/quang-ganh-lo-di-va-vui-song-how-to-stop-worrying-and-start-living-dale-carnegie"
+  },
+  {
+    "title1": "Đi tìm lẽ sống",
+    "title2": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "url": "/di-tim-le-song-mans-search-for-meaning-viktor-e-frankl"
+  },
+  {
+    "title1": "Dám bị ghét",
+    "title2": "The Courage to Be Disliked",
+    "author": "Ichiro Kishimi và Fumitake Koga",
+    "url": "/dam-bi-ghet-the-courage-to-be-disliked-ichiro-kishimi-va-fumitake-koga"
+  },
+  {
+    "title1": "Hành trình về phương đông",
+    "title2": "Journey to the East",
+    "author": "Baird T. Spalding",
+    "url": "/hanh-trinh-ve-phuong-dong-journey-to-the-east-baird-t-spalding"
+  },
+  {
+    "title1": "Khéo ăn nói sẽ có được thiên hạ",
+    "title2": "",
+    "author": "Trác Nhã",
+    "url": "/kheo-an-noi-se-co-duoc-thien-ha-trac-nha"
+  },
+  {
+    "title1": "Sức mạnh của tĩnh lặng",
+    "title2": "Stillness Speaks",
+    "author": "Eckhart Tolle",
+    "url": "/sức-manh-cua-tinh-lang-stillness-speaks-eckhart-tolle"
+  },
+  {
+    "title1": "Bí mật",
+    "title2": "The Secret",
+    "author": "Rhonda Byrne",
+    "url": "/bi-mat-the-secret-rhonda-byrne"
+  },
+  {
+    "title1": "Sức mạnh của thói quen",
+    "title2": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "url": "/sức-manh-cua-thoi-quen-the-power-of-habit-charles-duhigg"
+  },
+  {
+    "title1": "Trở về không",
+    "title2": "At Zero",
+    "author": "Joe Vitale và Tiến sĩ Ihaleakala Hew Len",
+    "url": "/tro-ve-khong-at-zero-joe-vitale-va-tien-si-ihaleakala-hew-len"
+  },
+  {
+    "title1": "Không giới hạn",
+    "title2": "Zero Limits",
+    "author": "Joe Vitale và Tiến sĩ Ihaleakala Hew Len",
+    "url": "/khong-gioi-han-zero-limits-joe-vitale-va-tien-si-ihaleakala-hew-len"
+  },
+  {
+    "title1": "Yêu những điều không hoàn hảo",
+    "title2": "Love for Imperfect Things",
+    "author": "Haemin Sunim",
+    "url": "/yeu-nhung-dieu-khong-hoan-hao-love-for-imperfect-things-haemin-sunim"
+  },
+  {
+    "title1": "Bước Chậm Lại Giữa Thế Gian Vội Vã",
+    "title2": "The Things You Can See Only When You Slow Down",
+    "author": "Haemin Sunim",
+    "url": "/buoc-cham-lai-giua-the-gian-voi-va-the-things-you-can-see-only-when-you-slow-down-haemin-sunim"
+  },
+  {
+    "title1": "Dạy con làm giàu",
+    "title2": "Rich Dad Poor Dad",
+    "author": "Robert T.Kiyosaki và Sharon L Lechter",
+    "url": "/day-con-lam-giau-rich-dad-poor-dad-robert-tkiyosaki-va-sharon-l-lechter"
+  },
+  {
+    "title1": "Nhà đầu tư thông minh",
+    "title2": "The Intelligent Investor",
+    "author": "Benjamin Graham",
+    "url": "/nha-dau-tu-thong-minh-the-intelligent-investor-benjamin-graham"
+  },
+  {
+    "title1": "Nghệ thuật đàm phán",
+    "title2": "The Art of the Deal",
+    "author": "Donald Trump",
+    "url": "/nghe-thuat-dam-phan-the-art-of-the-deal-donald-trump"
+  },
+  {
+    "title1": "Tư duy nhanh và chậm",
+    "title2": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "url": "/tu-duy-nhanh-va-cham-thinking-fast-and-slow-daniel-kahneman"
+  },
+  {
+    "title1": "Thiên nga đen",
+    "title2": "The Black Swan",
+    "author": "Nassim Nicholas Talets",
+    "url": "/thien-nga-den-the-black-swan-nassim-nicholas-talets"
+  },
+  {
+    "title1": "Nghĩ giàu làm giàu",
+    "title2": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "url": "/nghi-giau-lam-giau-think-and-grow-rich-napoleon-hill"
+  },
+  {
+    "title1": "Cổ phiếu thường lợi nhuận phi thường",
+    "title2": "Common Stocks and Uncommon Profits",
+    "author": "Philip A. Fisher",
+    "url": "/co-phieu-thuong-loi-nhuan-phi-thuong-common-stocks-and-uncommon-profits-philip-a-fisher"
+  },
+  {
+    "title1": "Người giàu có nhất thành Babylon",
+    "title2": "The Richest Man in Babylon",
+    "author": "George S. Clason",
+    "url": "/nguoi-giau-co-nhat-thanh-babylon-the-richest-man-in-babylon-george-s-clason"
+  },
+  {
+    "title1": "Độc lập tài chính",
+    "title2": "Financial Freedom",
+    "author": "Grant Sabatier",
+    "url": "/doc-lap-tai-chinh-financial-freedom-grant-sabatier"
+  },
+  {
+    "title1": "Khởi nghiệp tinh gọn",
+    "title2": "The Lean Startup",
+    "author": "Eric Ries",
+    "url": "/khoi-nghiep-tinh-gon-the-lean-startup-eric-ries"
+  },
+  {
+    "title1": "Từ tốt đến vĩ đại",
+    "title2": "Good to Great",
+    "author": "Jim Collins",
+    "url": "/tu-tot-den-vi-dai-good-to-great-jim-collins"
+  },
+  {
+    "title1": "Ngày đòi nợ",
+    "title2": "Payback Time",
+    "author": "Phil Town",
+    "url": "/ngay-doi-no-payback-time-phil-town"
+  },
+  {
+    "title1": "Người bán hàng vĩ đại nhất thế giới",
+    "title2": "The Greatest Salesman in the World",
+    "author": "Og Mandino",
+    "url": "/nguoi-ban-hang-vi-dai-nhat-the-gioi-the-greatest-salesman-in-the-world-og-mandino"
+  },
+  {
+    "title1": "Bí mật tư duy triệu phú",
+    "title2": "Secrets of the Millionaire Mind",
+    "author": "T. Harv Eker",
+    "url": "/bi-mat-tu-duy-trieu-phu-secrets-of-the-millionaire-mind-t-harv-eker"
+  },
+  {
+    "title1": "Boglehead hướng dẫn cách đầu tư",
+    "title2": "The Bogleheads' Guide to Investing",
+    "author": "Mel Lindauer, Taylor Larimore và Angela Lansbury",
+    "url": "/boglehead-huong-dan-cach-dau-tu-the-bogleheads-guide-to-investing-mel-lindauer-taylor-larimore-va-angela-lansbury"
+  },
+  {
+    "title1": "Tâm lý học về tiền",
+    "title2": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "url": "/tam-ly-hoc-ve-tien-the-psychology-of-money-morgan-housel"
+  },
+  {
+    "title1": "Những kẻ xuất chúng",
+    "title2": "Outliers",
+    "author": "Malcolm Gladwell",
+    "url": "/nhung-ke-xuat-chung-outliers-malcolm-gladwell"
+  },
+  {
+    "title1": "Điều ý nghĩa nhất",
+    "title2": "The One Thing",
+    "author": "Gary Keller và Jay Papasan",
+    "url": "/dieu-y-nghia-nhat-the-one-thing-gary-keller-va-jay-papasan"
+  },
+  {
+    "title1": "Siêu kinh tế học hài hước",
+    "title2": "Super Freakonomics",
+    "author": "Steven D. Levitt và Stephen J. Dubner",
+    "url": "/sieu-kinh-te-hoc-hai-huoc-super-freakonomics-steven-d-levitt-va-stephen-j-dubner"
+  },
+  {
+    "title1": "Khởi nghiệp với 100$",
+    "title2": "The $100 Startup",
+    "author": "Chris Guillebeau",
+    "url": "/khoi-nghiep-voi-100$-the-$100-startup-chris-guillebeau"
+  },
+  {
+    "title1": "Thay đổi tí hon hiệu quả bất ngờ",
+    "title2": "Atomic Habits",
+    "author": "James Clear",
+    "url": "/thay-doi-ti-hon-hieu-qua-bat-ngo-atomic-habits-james-clear"
+  },
+  {
+    "title1": "Tuần làm việc 4 giờ",
+    "title2": "The 4-Hour Workweek",
+    "author": "Tim Ferriss",
+    "url": "/tuan-lam-viec-4-gio-the-4-hour-workweek-tim-ferriss"
+  },
+  {
+    "title1": "Mặc kệ nó, làm tới đi",
+    "title2": "Screw It, Let's Do It",
+    "author": "Richard Branson",
+    "url": "/mac-ke-no-lam-toi-di-screw-it-lets-do-it-richard-branson"
+  },
+  {
+    "title1": "Thế giới Alibaba của Jack Ma",
+    "title2": "Alibaba's World",
+    "author": "Porter Erisman",
+    "url": "/the-gioi-alibaba-cua-jack-ma-alibabas-world-porter-erisman"
+  },
+  {
+    "title1": "Tiểu sử về Steve Job",
+    "title2": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "url": "/tieu-su-ve-steve-job-steve-jobs-walter-isaacson"
+  },
+  {
+    "title1": "Elon Musk",
+    "title2": "",
+    "author": "Ashlee Vance",
+    "url": "/elon-musk-ashlee-vance"
+  },
+  {
+    "title1": "Bill Gates Tham vọng lớn lao và quá trình hình thành đế chế Microsolf",
+    "title2": "Bill Gates the Making of the Microsoft Empire",
+    "author": "James Wallace & Jim Erickson",
+    "url": "/bill-gates-tham-vong-lon-lao-va-qua-trinh-hinh-thanh-de-che-microsolf-bill-gates-the-making-of-the-microsoft-empire-james-wallace-&-jim-erickson"
+  },
+  {
+    "title1": "Tôi đã làm giàu như thế nào",
+    "title2": "The Art of the Deal",
+    "author": "Donald Trump",
+    "url": "/toi-da-lam-giau-nhu-the-nao-the-art-of-the-deal-donald-trump"
+  },
+  {
+    "title1": "Lược sử về loài người",
+    "title2": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "url": "/luoc-su-ve-loai-nguoi-sapiens-a-brief-history-of-humankind-yuval-noah-harari"
+  },
+  {
+    "title1": "Gen vị kỷ",
+    "title2": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "url": "/gen-vi-ky-the-selfish-gene-richard-dawkins"
+  },
+  {
+    "title1": "Vũ trụ huyền bí",
+    "title2": "The Elegant Universe",
+    "author": "Brian Greene",
+    "url": "/vu-tru-huyen-bi-the-elegant-universe-brian-greene"
+  },
+  {
+    "title1": "Lược sử thời gian",
+    "title2": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "url": "/luoc-su-thoi-gian-a-brief-history-of-time-stephen-hawking"
+  },
+  {
+    "title1": "Vũ trụ",
+    "title2": "Cosmos",
+    "author": "Carl Sagan",
+    "url": "/vu-tru-cosmos-carl-sagan"
+  },
+  {
+    "title1": "Lược sử Trái đất",
+    "title2": "A Brief History of Earth",
+    "author": "Andrew H. Knoll",
+    "url": "/luoc-su-trai-dat-a-brief-history-of-earth-andrew-h-knoll"
+  },
+  {
+    "title1": "Khởi nguyên của vũ trụ",
+    "title2": "Origins: Fourteen Billion Years of Cosmic Evolution",
+    "author": "Neil deGrasse Tyson và Donald Goldsmith",
+    "url": "/khoi-nguyen-cua-vu-tru-origins-fourteen-billion-years-of-cosmic-evolution-neil-degrasse-tyson-va-donald-goldsmith"
+  },
+  {
+    "title1": "Vũ trụ trong vỏ hạt dẻ",
+    "title2": "The Universe in a Nutshell",
+    "author": "Stephen Hawking",
+    "url": "/vu-tru-trong-vo-hat-de-the-universe-in-a-nutshell-stephen-hawking"
+  },
+  {
+    "title1": "Vật Lý Thiên Văn Cho Người Vội Vã",
+    "title2": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "url": "/vat-ly-thien-van-cho-nguoi-voi-va-astrophysics-for-people-in-a-hurry-neil-degrasse-tyson"
+  },
+  {
+    "title1": "Giai Điệu Dây Và Bản Giao Hưởng Của Vũ Trụ",
+    "title2": "The Elegant Universe",
+    "author": "Brian Greene",
+    "url": "/giai-dieu-day-va-ban-giao-huong-cua-vu-tru-the-elegant-universe-brian-greene"
+  },
+  {
+    "title1": "Các Thế Giới Song Song",
+    "title2": "Parallel Worlds",
+    "author": "Michio Kaku",
+    "url": "/cac-the-gioi-song-song-parallel-worlds-michio-kaku"
+  },
+  {
+    "title1": "Đời Sống Bí Ẩn Của Cây",
+    "title2": "The Hidden Life of Trees",
+    "author": "Peter Wohlleben",
+    "url": "/doi-song-bi-an-cua-cay-the-hidden-life-of-trees-peter-wohlleben"
+  },
+  {
+    "title1": "Đại Sử Từ Vụ Nổ Lớn Đến Hiện Tại",
+    "title2": "Big History: From the Big Bang to the Present",
+    "author": "Cynthia Stokes Brown",
+    "url": "/dai-su-tu-vu-no-lon-den-hien-tai-big-history-from-the-big-bang-to-the-present-cynthia-stokes-brown"
+  },
+  {
+    "title1": "Bản Thiết Kế Vĩ Đại",
+    "title2": "The Grand Design",
+    "author": "Stephen Hawking và Leonard Mlodinow",
+    "url": "/ban-thiet-ke-vi-dai-the-grand-design-stephen-hawking-va-leonard-mlodinow"
+  },
+  {
+    "title1": "Sao Chúng Ta Lại Ngủ",
+    "title2": "Why We Sleep",
+    "author": "Matthew Walker",
+    "url": "/sao-chung-ta-lai-ngu-why-we-sleep-matthew-walker"
+  },
+  {
+    "title1": "Hành Tinh Thứ 12",
+    "title2": "The Twelfth Planet",
+    "author": "Zecharia Sitchin",
+    "url": "/hanh-tinh-thứ-12-the-twelfth-planet-zecharia-sitchin"
+  },
+  {
+    "title1": "Lược Sử Vạn Vật",
+    "title2": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "url": "/luoc-su-van-vat-a-short-history-of-nearly-everything-bill-bryson"
+  },
+  {
+    "title1": "Vũ Trụ Toàn Ảnh",
+    "title2": "The Holographic Universe",
+    "author": "Michael Talbot",
+    "url": "/vu-tru-toan-anh-the-holographic-universe-michael-talbot"
+  },
+  {
+    "title1": "Cuộc Thám Hiểm Vào Lòng Đất",
+    "title2": "Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "url": "/cuoc-tham-hiem-vao-long-dat-journey-to-the-center-of-the-earth-jules-verne"
+  },
+  {
+    "title1": "21 Bài Học Của Thế Kỷ 21",
+    "title2": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "url": "/21-bai-hoc-cua-the-ky-21-21-lessons-for-the-21st-century-yuval-noah-harari"
+  },
+  {
+    "title1": "Trí tuệ do thái",
+    "title2": "Jerome Becomes a Genius",
+    "author": "Itamar Forman",
+    "url": "/tri-tue-do-thai-jerome-becomes-a-genius-itamar-forman"
+  },
+  {
+    "title1": "Đợt tuyệt chủng thứ 6",
+    "title2": "The Sixth Extinction",
+    "author": "Elizabeth Kolbert",
+    "url": "/dot-tuyet-chung-thứ-6-the-sixth-extinction-elizabeth-kolbert"
+  },
+  {
+    "title1": "Lược sử đời tôi",
+    "title2": "My Brief History",
+    "author": "Stephen Hawking",
+    "url": "/luoc-su-doi-toi-my-brief-history-stephen-hawking"
+  },
+  {
+    "title1": "Án mạng trên sông Nile",
+    "title2": "Death on the Nile",
+    "author": "Agatha Christie",
+    "url": "/an-mang-tren-song-nile-death-on-the-nile-agatha-christie"
+  },
+  {
+    "title1": "Lược sử tương lai",
+    "title2": "Homo Deus: A Brief History of Tomorrow",
+    "author": "Yuval Noah Harari",
+    "url": "/luoc-su-tuong-lai-homo-deus-a-brief-history-of-tomorrow-yuval-noah-harari"
+  },
+  {
+    "title1": "Mật mã Maya",
+    "title2": "In The Courts Of The Sun",
+    "author": "Brian D'Amato",
+    "url": "/mat-ma-maya-in-the-courts-of-the-sun-brian-damato"
+  },
+  {
+    "title1": "Thế giới bị quỷ ám",
+    "title2": "The Demon-Haunted World",
+    "author": "Carl Sagan",
+    "url": "/the-gioi-bi-quy-am-the-demon-haunted-world-carl-sagan"
+  },
+  {
+    "title1": "Đồi gió hú",
+    "title2": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "url": "/doi-gio-hu-wuthering-heights-emily-bronte"
+  },
+  {
+    "title1": "Kiêu hãnh và định kiến",
+    "title2": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "url": "/kieu-hanh-va-dinh-kien-pride-and-prejudice-jane-austen"
+  },
+  {
+    "title1": "Lý trí và tình cảm",
+    "title2": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "url": "/ly-tri-va-tinh-cam-sense-and-sensibility-jane-austen"
+  },
+  {
+    "title1": "Jane Eyre",
+    "title2": "",
+    "author": "Charlotte Brontë",
+    "url": "/jane-eyre-charlotte-brontë"
+  },
+  {
+    "title1": "Cánh đồng bất tận",
+    "title2": "",
+    "author": "Nguyễn Ngọc Tư",
+    "url": "/canh-dong-bat-tan-nguyen-ngoc-tu"
+  },
+  {
+    "title1": "Thuyết phục",
+    "title2": "Persuasion",
+    "author": "Jane Austen",
+    "url": "/thuyet-phuc-persuasion-jane-austen"
+  },
+  {
+    "title1": "Gatsby vĩ đại",
+    "title2": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "url": "/gatsby-vi-dai-the-great-gatsby-f-scott-fitzgerald"
+  },
+  {
+    "title1": "Romeo and Juliet",
+    "title2": "",
+    "author": "William Shakespeare",
+    "url": "/romeo-and-juliet-william-shakespeare"
+  },
+  {
+    "title1": "Nhật ký",
+    "title2": "The Notebook",
+    "author": "Nicholas Spanks",
+    "url": "/nhat-ky-the-notebook-nicholas-spanks"
+  },
+  {
+    "title1": "Trước ngày em đến",
+    "title2": "Me Before You",
+    "author": "Jojo Moyes",
+    "url": "/truoc-ngay-em-den-me-before-you-jojo-moyes"
+  },
+  {
+    "title1": "Vợ người du hành thời gian",
+    "title2": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "url": "/vo-nguoi-du-hanh-thoi-gian-the-time-travelers-wife-audrey-niffenegger"
+  },
+  {
+    "title1": "Bác sĩ Zhivago",
+    "title2": "Doctor Zhivago",
+    "author": "Boris Pasternak",
+    "url": "/bac-si-zhivago-doctor-zhivago-boris-pasternak"
+  },
+  {
+    "title1": "Mắt biếc",
+    "title2": "",
+    "author": "Nguyễn Nhật Ánh",
+    "url": "/mat-biec-nguyen-nhat-anh"
+  },
+  {
+    "title1": "Thời thơ ngây",
+    "title2": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "url": "/thoi-tho-ngay-the-age-of-innocence-edith-wharton"
+  },
+  {
+    "title1": "Dự án Rosie",
+    "title2": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "url": "/du-an-rosie-the-rosie-project-graeme-simsion"
+  },
+  {
+    "title1": "7 Thói quen để trẻ hạnh phúc",
+    "title2": "The 7 Habits of Happy Kids",
+    "author": "Sean Covey",
+    "url": "/7-thoi-quen-de-tre-hanh-phuc-the-7-habits-of-happy-kids-sean-covey"
+  },
+  {
+    "title1": "Lời Nói Thần Kỳ Nuôi Dưỡng Những Đứa Trẻ Hạnh Phúc",
+    "title2": "",
+    "author": "Erika Takeuchi",
+    "url": "/loi-noi-than-ky-nuoi-duong-nhung-dứa-tre-hanh-phuc-erika-takeuchi"
+  },
+  {
+    "title1": "90% Trẻ Thông Minh Nhờ Cách Trò Chuyện Đúng Đắn Của Cha Mẹ",
+    "title2": "",
+    "author": "Urako Kanamori",
+    "url": "/90%-tre-thong-minh-nho-cach-tro-chuyen-dung-dan-cua-cha-me-urako-kanamori"
+  },
+  {
+    "title1": "Giáo dục không la mắng",
+    "title2": "",
+    "author": "Nobuyoshi Hirai",
+    "url": "/giao-duc-khong-la-mang-nobuyoshi-hirai"
+  },
+  {
+    "title1": "Truyện cổ Grimm",
+    "title2": "",
+    "author": "Anh em nhà Grimm - Jacob và Wilhelm Grimm",
+    "url": "/truyen-co-grimm-anh-em-nha-grimm-jacob-va-wilhelm-grimm"
+  },
+  {
+    "title1": "Truyện Cổ Andersen",
+    "title2": "",
+    "author": "Hans Christian Andersen",
+    "url": "/truyen-co-andersen-hans-christian-andersen"
+  },
+  {
+    "title1": "Đọc Vị Mọi Vấn Đề Của Trẻ",
+    "title2": "Secrets of the Baby Whisperer",
+    "author": "Tracy Hogg và Melinda Blau",
+    "url": "/doc-vi-moi-van-de-cua-tre-secrets-of-the-baby-whisperer-tracy-hogg-va-melinda-blau"
+  },
+  {
+    "title1": "Lần Đầu Làm Mẹ",
+    "title2": "",
+    "author": "Masato Takeuchi",
+    "url": "/lan-dau-lam-me-masato-takeuchi"
+  },
+  {
+    "title1": "Điểm dối lừa",
+    "title2": "The Deception Point",
+    "author": "Dan Brown",
+    "url": "/diem-doi-lua-the-deception-point-dan-brown"
+  },
+  {
+    "title1": "Mật Mã Da Vinci",
+    "title2": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "url": "/mat-ma-da-vinci-the-da-vinci-code-dan-brown"
+  },
+  {
+    "title1": "Cô Gái Có Hình Xăm Rồng",
+    "title2": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "url": "/co-gai-co-hinh-xam-rong-the-girl-with-the-dragon-tattoo-stieg-larsson"
+  },
+  {
+    "title1": "Cô gái đùa với lửa",
+    "title2": "The Girl who played with fire",
+    "author": "Stieg Larsson",
+    "url": "/"
+  },
+  {
+    "title1": "Cô gái chọc tổ ong Bầu",
+    "title2": "The Girl Who Kicked the Hornet's Nest",
+    "author": "Stieg Larsson",
+    "url": "/"
+  },
+  {
+    "title1": "Phía Sau Nghi Can X",
+    "title2": "The Devotion of Suspect X",
+    "author": "Higashino Keigo",
+    "url": "/phia-sau-nghi-can-x-the-devotion-of-suspect-x-higashino-keigo"
+  },
+  {
+    "title1": "Sherlock Holmes",
+    "title2": "",
+    "author": "Arthur Conan Doyle",
+    "url": "/sherlock-holmes-arthur-conan-doyle"
+  },
+  {
+    "title1": "Người Phụ Nữ Mặc Bộ Đồ Trắng",
+    "title2": "The Woman in White",
+    "author": "Wilkie Collins",
+    "url": "/nguoi-phu-nu-mac-bo-do-trang-the-woman-in-white-wilkie-collins"
+  },
+  {
+    "title1": "Con Chim Khát Tổ",
+    "title2": "The Cuckoo's Calling",
+    "author": "J.K. Rowling",
+    "url": "/con-chim-khat-to-the-cuckoos-calling-jk-rowling"
+  },
+  {
+    "title1": "Bạch Dạ Hành",
+    "title2": "Journey Under the Midnight Sun",
+    "author": "Higashino Keigo",
+    "url": "/bach-da-hanh-journey-under-the-midnight-sun-higashino-keigo"
+  },
+  {
+    "title1": "Chuỗi Án Mạng ABC",
+    "title2": "The ABC Murders",
+    "author": "Agatha Christie",
+    "url": "/chuoi-an-mang-abc-the-abc-murders-agatha-christie"
+  },
+  {
+    "title1": "Edogawa Ranpo Tuyển Tập",
+    "title2": "Edogawa Ranpo",
+    "author": "Edogawa Ranpo",
+    "url": "/edogawa-ranpo-tuyen-tap-edogawa-ranpo-edogawa-ranpo"
+  },
+  {
+    "title1": "Ghi chép pháp y",
+    "title2": "",
+    "author": "Lưu Hiểu Huy, Liêu Tiểu Đao và Lưu Bát Bách",
+    "url": "/ghi-chep-phap-y-luu-hieu-huy-lieu-tieu-dao-va-luu-bat-bach"
+  },
+  {
+    "title1": "Chuộc Tội",
+    "title2": "Penitencia",
+    "author": "Minato Kanae",
+    "url": "/chuoc-toi-penitencia-minato-kanae"
+  },
+  {
+    "title1": "Thú tội",
+    "title2": "confessions",
+    "author": "Minato Kanae",
+    "url": "/thu-toi-confessions-minato-kanae"
+  },
+  {
+    "title1": "Hỏa Ngục",
+    "title2": "Inferno",
+    "author": "Dan Brown",
+    "url": "/hoa-nguc-inferno-dan-brown"
+  },
+  {
+    "title1": "Sự im lặng của Bầy cừu",
+    "title2": "The silence of the lambs",
+    "author": "Thomas Harris",
+    "url": "/su-im-lang-cua-bay-cuu-the-silence-of-the-lambs-thomas-harris"
+  },
+  {
+    "title1": "Thiên thần và ác quỷ",
+    "title2": "Angels and Demons",
+    "author": "Dan Brown",
+    "url": "/thien-than-va-ac-quy-angels-and-demons-dan-brown"
+  },
+  {
+    "title1": "Sự suy tàn và sụp đổ của đế chế la mã",
+    "title2": "The decline and fall of the Roman Empire",
+    "author": "Edward Gibbon",
+    "url": "/su-suy-tan-va-sup-do-cua-de-che-la-ma-the-decline-and-fall-of-the-roman-empire-edward-gibbon"
+  },
+  {
+    "title1": "Ảnh Hưởng Của Sức Mạnh Trên Biển Đối Với Lịch Sử",
+    "title2": "The Influence of Sea Power upon History",
+    "author": "Alfred Thayer Mahan",
+    "url": "/anh-huong-cua-sức-manh-tren-bien-doi-voi-lich-su-the-influence-of-sea-power-upon-history-alfred-thayer-mahan"
+  },
+  {
+    "title1": "Nhật ký đặng thùy trâm",
+    "title2": "The Diary of Dang Thuy Tram",
+    "author": "Đặng Thùy Trâm",
+    "url": "/nhat-ky-dang-thuy-tram-the-diary-of-dang-thuy-tram-dang-thuy-tram"
   }
 ]
