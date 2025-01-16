@@ -1,0 +1,12 @@
+{
+    "categories": [
+        { "name": "Văn học và Tiểu thuyết", "link": "https://sachvatrithuc.com/van-hoc-tieu-thuyet" },
+        { "name": "Phát triển bản thân", "link": "https://sachvatrithuc.com/phat-trien-ban-than-ky-nang-triet-ly-song" },
+        { "name": "Tài chính kinh doanh", "link": "https://sachvatrithuc.com/tai-chinh-kinh-doanh-tu-duy-lam-giau" },
+        { "name": "Khoa học và Tri thức", "link": "https://sachvatrithuc.com/khoa-hoc-va-tri-thuc" },
+        { "name": "Tình cảm, Lãng mạn", "link": "https://sachvatrithuc.com/tinh-cam-lang-man" },
+        { "name": "Giáo dục và Đời sống", "link": "https://sachvatrithuc.com/giao-cuc-va-djoi-song" },
+        { "name": "Trinh thám, Kinh dị, Phiêu lưu", "link": "https://sachvatrithuc.com/trinh-tham-kinh-di-va-phieu-luu" },
+        { "name": "Lịch sử, Văn hóa", "link": "https://sachvatrithuc.com/lich-su-van-hoa-va-nhan-vat-lich-su" }
+    ]
+}
