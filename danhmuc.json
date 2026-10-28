@@ -2,12 +2,12 @@
     "categories": [
         { "name": "Tủ Sách", "link": "https://sachvatrithuc.com/tu-sach" },
         { "name": "Review Sách", "link": "https://sachvatrithuc.com/review-sach-hay" },
-        { "name": "Tản Văn Chữa lành", "link": "https://sachvatrithuc.com/tan-van-chua-lanh" },
+        { "name": "Tản Văn Chữa Lành", "link": "https://sachvatrithuc.com/tan-van-chua-lanh" },
         { "name": "Lối Sống & Văn Hóa Đọc", "link": "https://sachvatrithuc.com/loi-song-and-van-hoa-djoc" },
         { "name": "Quotes Song Ngữ", "link": "https://sachvatrithuc.com/quotes-song-ngu" },
-        { "name": "Trích dẫn & Danh Ngôn", "link": "https://sachvatrithuc.com/trich-dan-sach-hay" },
+        { "name": "Trích Dẫn & Danh Ngôn", "link": "https://sachvatrithuc.com/trich-dan-sach-hay" },
         { "name": "Phương Pháp & Năng Suất", "link": "https://sachvatrithuc.com/quan-ly-thoi-gian" },
-        { "name": "Kỹ Năng & Tài Chính, "link": "https://sachvatrithuc.com/ky-nang-mem" },
-        { "name": "Kỹ Năng & Tài Chính, "link": "https://sachva" }
+        { "name": "Kỹ Năng & Tài Chính", "link": "https://sachvatrithuc.com/ky-nang-mem" },
+        { "name": "Giáo Dục & Gia Đình", "link": "https://sachvatrithuc.com/nuoi-day-con" },
     ]
 }
