@@ -1,14 +1,218 @@
 [
   {
-    "title": "Review Sách: The Notebook – Cuốn Sổ Tình Yêu Vượt Thời Gian",
-    "description": "The Notebook của Nicholas Sparks là một trong những tác phẩm lãng mạn nổi tiếng nhất, kể về tình yêu mãnh liệt, sâu sắc và bất diệt giữa Noah và Allie.",
-    "url": "/review-sach-the-notebook-cuon-so-tinh-yeu-vuot-thoi-gian",
-    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/11-YZ9VV0p564Uoz6JX.png"
+    "title": "Top 10 Cuốn Sách Truyền Cảm Hứng Giúp Bạn Tìm Thấy Sự Lạc Quan",
+    "description": "Tuyển tập 10 cuốn sách truyền cảm hứng sâu sắc giúp bạn tìm lại năng lượng tích cực, niềm tin và sự lạc quan vượt qua những giai đoạn thử thách.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/top-10-cuon-sach-truyen-cam-hung-giup-ban-tim-thay-su-lac-quan-trong-cuoc-song','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/2-Aq2vDGareeCWvP46.png"
   },
   {
-    "title": "Review Sách: Romeo và Juliet – Bi Kịch Tình Yêu Vượt Thời Gian",
-    "description": "Romeo và Juliet của William Shakespeare là tác phẩm tiêu biểu của văn học Anh và thế giới, kể về một câu chuyện tình yêu đầy đam mê nhưng bi thảm.",
-    "url": "/review-sach-romeo-va-juliet-bi-kich-tinh-yeu-vuot-thoi-gian",
-    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/5-A85wwjya89TKRVpy.png"
+    "title": "Sách Hay Về Cuộc Đời Và Thành Công: Bài Học Từ Các Doanh Nhân",
+    "description": "Đúc kết những bài học xương máu về bản lĩnh thương trường, tầm nhìn quản trị và triết lý sống từ hồi ký của các doanh nhân lỗi lạc.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/sach-hay-ve-cuoc-doi-va-thanh-cong-bai-hoc-tu-cac-doanh-nhan','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-03-MckabC8PxQkk9QEL.png"
+  },
+  {
+    "title": "Những Cuốn Sách Khám Phá Nội Tâm Và Cải Thiện Sức Khỏe Tinh Thần",
+    "description": "Hành trình lắng nghe thế giới nội tâm, chữa lành những tổn thương cảm xúc và xây dựng sự bình yên vững chãi từ bên trong qua những trang sách.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nhung-cuon-sach-kham-pha-noi-tam-va-cai-thien-suc-khoe-tinh-than','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/102-mp8v4JnreKtL8wM2.png"
+  },
+  {
+    "title": "Review Sách Về Tài Chính Cá Nhân Và Đầu Tư Thông Minh",
+    "description": "Những cuốn sách nền tảng giúp bạn thay đổi tư duy quản lý tiền bạc, xây dựng kỷ luật tích lũy và đầu tư bền vững cho tương lai.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/review-sach-ve-tai-chinh-ca-nhan-va-dau-tu-thong-minh','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-2-ssQHeDOL2fUyYVdy.jpg"
+  },
+  {
+    "title": "Những Cuốn Sách Làm Thay Đổi Tư Duy Của Tôi",
+    "description": "Góc nhìn chân thực về những tác phẩm có sức mạnh xoay chuyển nhận thức, giúp mở rộng thế giới quan và định hình lại lối sống.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nhung-cuon-sach-lam-thay-doi-tu-duy-cua-toi','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/sa-ch-pha-t-tria-n-baopsn-thac-n-dOqyaM0ynVhEGXGe.png"
+  },
+  {
+    "title": "Top Các Cuốn Sách Kinh Điển Mà Mọi Người Nên Đọc Ít Nhất Một Lần",
+    "description": "Danh sách những kiệt tác văn học và triết lý nhân sinh vượt thời gian mà bất kỳ người yêu sách nào cũng nên thưởng thức một lần trong đời.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/top-cac-cuon-sach-kinh-dien-ma-moi-nguoi-nen-doc-it-nhat-mot-lan','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/1-YZ9VaN6oNWCa3qgn.png"
+  },
+  {
+    "title": "Những Cuốn Sách Hay Giúp Phát Triển Tư Duy Và Kỹ Năng Mềm",
+    "description": "Cẩm nang nâng tầm kỹ năng giao tiếp, tư duy phản biện và khả năng làm việc hiệu quả thông qua các đầu sách kỹ năng chọn lọc.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nhung-cuon-sach-hay-giup-phat-trien-tu-duy-va-ky-nang-mem','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-1-dMYmneGmHTTSIKse.jpg"
+  },
+  {
+    "title": "Giữa Biển Đỏ Thị Trường: Top 3 Cuốn Sách Rèn Kỷ Luật Thép Cho Nhà Đầu Tư",
+    "description": "Làm chủ tâm lý giao dịch, kiểm soát lòng tham và nỗi sợ hãi trước biến động thị trường với 3 cuốn sách kinh điển về kỷ luật đầu tư.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/giua-bien-do-thi-truong-top-3-cuon-sach-ren-ky-luat-thep-cho-nha-dau-tu-ca-nhan','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-1pNFxxeEQP5hOwYp.png"
+  },
+  {
+    "title": "Review Sách: Gọi Em Bằng Tên Anh (Call Me By Your Name) – André Aciman",
+    "description": "Bản tình ca mùa hè nước Ý đầy chất thơ, khắc họa những rung động đầu đời trong trẻo, mãnh liệt và nỗi hoài niệm khắc cốt ghi tâm.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/doc-online-goi-em-bang-ten-anh-call-me-by-your-name-andre-aciman','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/rw1-bia-YN8nvOcN7Htxp3qJ.png"
+  },
+  {
+    "title": "Review Sách: Lửa Và Máu (Fire & Blood) – George R.R. Martin",
+    "description": "Bản hùng ca sử thi bi tráng về triều đại Targaryen, nơi quyền lực, tham vọng và định mệnh đan xen trong thế giới giả tưởng kỳ vĩ.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/doc-online-lua-va-mau-fire-and-blood-george-rr-martin','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/rv02-anh-bia-7zqJ5tlSCd0LwqLs.png"
+  },
+  {
+    "title": "Review Sách: Ghi Chép Pháp Y – Những Thi Thể Không Hoàn Chỉnh",
+    "description": "Lời tự tình từ bàn mổ khám nghiệm của pháp y Lưu Bát Bách: góc nhìn nhân văn về sự thật, công lý và lòng trắc ẩn trước sinh mệnh con người.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/doc-online-ghi-chep-phap-y-nhung-thi-the-khong-hoan-chinh-luu-bat-bach','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/rv03-bia-kZRN3kf62XBCfgeY.png"
+  },
+  {
+    "title": "Review Sách: Cây Cam Ngọt Của Tôi – Hành Trình Tuổi Thơ Đầy Nước Mắt Và Hy Vọng",
+    "description": "Câu chuyện làm rơi nước mắt hàng triệu độc giả về cậu bé năm tuổi Zezé nhạy cảm, thông minh và tình bạn kỳ diệu sưởi ấm tuổi thơ nghèo khó.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/review-sach-cay-cam-ngot-cua-toi-mot-hanh-trinh-cua-tuoi-tho-djay-nuoc-mat-va-hy-vong','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/rv04-bia-1eHavho2EahBkU96.png"
+  },
+  {
+    "title": "Đồi Gió Hú: Khi Tình Yêu Là Nỗi Ám Ảnh Khắc Cốt Ghi Tâm",
+    "description": "Kiệt tác văn học kinh điển của Emily Brontë về mối tình dữ dội giữa Heathcliff và Catherine nơi vùng đồng hoang nước Anh đầy gió bão.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/doi-gio-hu-khi-tinh-yeu-la-noi-am-anh-khac-cot-ghi-tam','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/6-x5beC2DdxJ6o5s3F.png"
+  },
+  {
+    "title": "Khu Vườn Bí Mật: Phép Màu Bắt Đầu Từ Một Hạt Mầm Bị Lãng Quên",
+    "description": "Hành trình đánh thức khu vườn bị khóa kín suốt 10 năm và phép màu chữa lành tâm hồn kỳ diệu từ thiên nhiên của những đứa trẻ.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/khu-vuon-bi-mat-phep-mau-bat-dau-tu-mot-hat-mam-bi-lang-quen','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/6-x5beC2DdxJ6o5s3F.png"
+  },
+  {
+    "title": "Hoàng Tử Bé: Chúng Ta Đều Từng Là Trẻ Con Trước Khi Trở Thành Người Lớn Cô Đơn",
+    "description": "Phân tích những triết lý nhân sinh vượt thời gian về tình bạn, sự cảm hóa và cái nhìn trong trẻo bằng trái tim từ kiệt tác Hoàng Tử Bé.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/hoang-tu-be-chung-ta-deu-tung-la-tre-con-truoc-khi-tro-thanh-nhung-nguoi-lon-co-don','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/23-iZSwi8CXepYmIelR.png"
+  },
+  {
+    "title": "The Boy, The Mole, The Fox and The Horse: Vì Sao Cuốn Truyện Khiến Người Lớn Rơi Nước Mắt?",
+    "description": "Những cuộc trò chuyện dịu dàng giữa Cậu Bé, Chuột Chũi, Cáo và Ngựa giúp vỗ về tâm hồn và dạy ta lòng dũng cảm yêu thương bản thân.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/the-boy-the-mole-the-fox-and-the-horse-vi-sao-cuon-truyen-it-chu-nay-lai-khien-hang-trieu-nguoi-lon-roi-nuoc-mat','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/28-0938YN5I8HaNrmkg.png"
+  },
+  {
+    "title": "Tản Mạn: Vượt Qua Bóng Tối – Cuộc Phẫu Thuật Tâm Lý Vào Những Vết Thương Giấu Kín",
+    "description": "Đối diện trực diện với những tổn thương tâm lý thầm lặng để thấu hiểu bản thân và tìm lại ánh sáng tự do cho tâm hồn.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/tan-man-vuot-qua-bong-toi-cuoc-phau-thuat-tam-ly-truc-dien-vao-nhung-vet-thuong-giau-kin','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/vqbt-bia-HNgZkgPRVTh7L0K0.png"
+  },
+  {
+    "title": "Cách Thức Kinh Doanh Và Đầu Cơ Cổ Phiếu – Khi Kỷ Luật Là Chiếc Mỏ Neo Của Tâm Trí",
+    "description": "Bài học kinh điển từ huyền thoại Jesse Livermore về quản trị rủi ro, kiểm soát cảm xúc và giữ vững nguyên tắc trên thị trường tài chính.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/cach-thuc-kinh-doanh-va-dau-co-co-phieu-khi-ky-luat-la-chiec-mo-neo-cua-tam-tri','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/ctkac-bia-4duAm8jrThNjAUmS.png"
+  },
+  {
+    "title": "Tâm Lý Học Về Tiền – Lợi Tức Cao Nhất Của Tiền Bạc Là Sự Bình Yên",
+    "description": "Khám phá góc nhìn sâu sắc của Morgan Housel: giàu có thực sự không nằm ở sự phô trương, mà là quyền tự chủ thời gian và giấc ngủ ngon mỗi tối.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/tam-ly-hoc-ve-tien-loi-tuc-cao-nhat-cua-tien-bac-la-su-binh-yen','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/blog21-bia-Ez1dxnc7GNzMdvqL.png"
+  },
+  {
+    "title": "Review Sách: Sức Mạnh Của Tĩnh Lặng (Stillness Speaks) – Eckhart Tolle",
+    "description": "Khi sự bình yên cất lời giữa tâm trí ồn ào: nghệ thuật lắng nghe khoảng lặng bên trong để giải thoát khỏi lo âu thường nhật.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/suc-manh-cua-tinh-lang-stillness-speaks-eckhart-tolle','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/suc-manh-cua-tinh-lang-stillness-speaks-eckhart-tolle-ummpSpT2cMwH5F5U.png"
+  },
+  {
+    "title": "Những Ngày Rỗng Tuếch: 3 Cuốn Sách Mình Tìm Về Khi Muốn Được Vỗ Về Tâm Hồn",
+    "description": "Góc đọc chậm dành cho những ngày cạn kiệt năng lượng: 3 cuốn sách dịu dàng như một cái ôm ấm áp giúp bạn tìm lại điểm tựa tinh thần.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nhung-ngay-rong-tuech-3-cuon-sach-minh-tim-ve-khi-muon-duoc-vo-ve-tam-hon','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-44BodduCIBVIG0Up.jpg"
+  },
+  {
+    "title": "Hành Trang Trưởng Thành: 3 Cuốn Sách Giúp Sạc Lại Tâm Hồn Giữa Bộn Bề Áp Lực",
+    "description": "Đồng hành cùng người trẻ và người đi làm vượt qua khủng hoảng tuổi trưởng thành bằng những trang viết sâu lắng và thực tế.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/hanh-trang-truong-thanh-3-cuon-sach-giup-sac-lai-tam-hon-giua-bon-be-ap-luc','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-AUIGai6oogZLFlXe.png"
+  },
+  {
+    "title": "Đọc Chậm: Nghệ Thuật Theo Đuổi Sự Tối Giản Cho Ai Đang Kiệt Sức Vì Cuộc Sống Quá Ồn",
+    "description": "Buông bỏ những tiêu chuẩn hình thức không cần thiết để quay về chăm sóc không gian sống và sự tĩnh tại trong tâm hồn.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/doc-cham-nghe-thuat-theo-duoi-su-toi-gian-danh-cho-nhung-ai-dang-kiet-suc-vi-cuoc-song-qua-on','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-j2XiLaphy4UbxvzI.png"
+  },
+  {
+    "title": "Hành Trang Tuổi 30: Những Cuốn Sách Giúp Bình Tĩnh Hơn Trước Áp Lực Tiền Bạc Và Tương Lai",
+    "description": "Lời giải cho nỗi chênh vênh tuổi 30 giữa sự nghiệp, gia đình và tài chính để bước đi vững vàng theo nhịp điệu của riêng mình.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/hanh-trang-tuoi-30-nhung-cuon-sach-giup-binh-tinh-hon-truoc-ap-luc-tien-bac-va-tuong-lai','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/blog29-bia-yoKnHAB5TFItz2Qv.png"
+  },
+  {
+    "title": "Tại Sao Đọc Sách 20 Phút Mỗi Ngày Có Thể Thay Đổi Cuộc Đời Bạn?",
+    "description": "Sức mạnh lãi kép của thói quen đọc sách 20 phút mỗi ngày đối với sự minh mẫn của trí não, vốn từ vựng và chiều sâu tư duy.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/tai-sao-doc-sach-20-phut-moi-ngay-co-the-thay-doi-cuoc-doi-ban','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/home-YanywreyJrSXexe1.png"
+  },
+  {
+    "title": "Nghệ Thuật Thanh Lọc Kệ Sách & Tâm Trí – Đọc Ít Lại Để Thấm Sâu Hơn",
+    "description": "Thay vì chạy theo số lượng đầu sách, hãy học cách chọn lọc những cuốn sách tinh hoa để đọc chậm, suy ngẫm và ứng dụng trọn đời.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nghe-thuat-thanh-loc-ke-sach-va-tam-tri-doc-it-lai-de-tham-sau-hon','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/loi-song-toi-gian-zklG8ZpEXac2ersK.png"
+  },
+  {
+    "title": "Top Những Câu Nói Bất Hủ Trong Các Cuốn Sách Kinh Điển",
+    "description": "Tuyển tập những trích dẫn đắt giá nhất từ kho tàng văn học thế giới, mang lại nguồn cảm hứng sống và bài học nhân sinh sâu sắc.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/top-nhung-cau-noi-bat-hu-trong-cac-cuon-sach-kinh-dien','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/22-ALpn2PojW7T9EEZ5.png"
+  },
+  {
+    "title": "Trích Dẫn Về Bản Lĩnh Và Kỷ Luật: Danh Ngôn Sách Kinh Điển",
+    "description": "Những câu nói rèn luyện ý chí kiên cường, kỷ luật tự giác và sự điềm tĩnh của người trưởng thành trước nghịch cảnh.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nhung-trich-dan-dat-gia-ve-ban-linh-ky-luat-va-tam-tri-tinh-tai','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/nhung-trich-dan-dat-gia-ve-ban-linh-ky-luat-va-tam-tri-tinh-tai-fJK4L9XvyCwgSdcm.png"
+  },
+  {
+    "title": "25+ Trích Dẫn Văn Học Song Ngữ Anh Việt Chạm Đến Cảm Xúc",
+    "description": "Thưởng thức vẻ đẹp nguyên bản của ngôn từ tiếng Anh kèm bản dịch tiếng Việt giàu cảm xúc từ những tác phẩm văn học nổi tiếng.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/trich-dan-van-hoc-song-ngu-cham-den-cam-xuc','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/25-trich-dan-van-hoc-song-ngu-cham-den-cam-xuc-yyhK4CF9lmh4kdZj.png"
+  },
+  {
+    "title": "Quotes Song Ngữ Hoàng Tử Bé & Trích Dẫn Khu Vườn Bí Mật",
+    "description": "Bộ sưu tập trích dẫn song ngữ Anh – Việt đẹp nhất về tình yêu thương, sự gắn kết và phép màu chữa lành từ hai kiệt tác kinh điển.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/quotes-song-ngu-khu-vuon-bi-mat-va-hoang-tu-be','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/quotes-song-ngu-khu-vuon-bi-mat-va-hoang-tu-be-uCImTBGoFHAgouJe.png"
+  },
+  {
+    "title": "Phương Pháp Deep Work & Nguyên Lý 80/20: Làm Ít Để Đi Xa Hơn",
+    "description": "Giải mã nghịch lý của sự bận rộn nơi công sở và cách thiết lập pháo đài làm việc sâu giúp nhân đôi hiệu suất công việc.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/nghich-ly-cua-su-ban-ron-lam-it-lai-de-di-xa-hon-bang-deep-work','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/nghich-ly-cua-su-ban-ron-lam-it-lai-de-di-xa-hon-bang-phuong-phap-deep-work-pD4cV5aM72hwgjCv.png"
+  },
+  {
+    "title": "Phương Pháp Đọc Sâu Và Ghi Chép Cornell: Biến Kiến Thức Thành Tài Sản",
+    "description": "Chiến thắng đường cong lãng quên bằng phương pháp đọc chủ động với bút chì kết hợp bố cục trang sổ ghi chép Cornell 3 vùng.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/phuong-phap-doc-sau-va-ghi-chep-cornell-bien-kien-thuc-thanh-tai-san','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/phuong-phap-doc-sau-va-ghi-chep-cornell-nho-lau-bia-sUi6OveKugGom1S4.png"
+  },
+  {
+    "title": "Ma Trận Eisenhower – Phương Pháp Quản Lý Thời Gian Hiệu Quả",
+    "description": "Cách phân loại công việc theo mức độ Khẩn cấp và Quan trọng để thoát khỏi sự quá tải và tập trung vào mục tiêu cốt lõi.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/ma-tran-eisenhower-phuong-phap-quan-ly-thoi-gian-hieu-qua','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/16-YrDl4JanWJc8r72V.png"
+  },
+  {
+    "title": "7 Thói Quen Chi Tiêu Giúp Bạn Tiết Kiệm Được 30% Thu Nhập Mỗi Tháng",
+    "description": "Những nguyên tắc quản lý tài chính cá nhân thực tế, dễ áp dụng giúp bạn xây dựng quỹ dự phòng an toàn mà không làm giảm chất lượng sống.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/7-thoi-quen-chi-tieu-giup-ban-tiet-kiem-djuoc-30percent-thu-nhap-moi-thang','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/20-dWxyLOlXontbqK3N.png"
+  },
+  {
+    "title": "Góc Nhỏ Gia Đình: 3 Cuốn Sách Thay Đổi Hoàn Toàn Tư Duy Nuôi Dạy Con",
+    "description": "Hành trình chuyển hóa từ cha mẹ áp đặt sang người đồng hành thấu cảm cùng con qua 3 cuốn sách giáo dục gia đình kinh điển.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/goc-nho-gia-dinh-3-cuon-sach-thay-doi-hoan-toan-tu-duy-nuoi-day-con','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/anh-bia-LvFK4oaVCnzVF5OG.png"
+  },
+  {
+    "title": "Mẹo Dạy Dỗ Con Cái Hiệu Quả: Bí Quyết Nuôi Dưỡng Và Giáo Dục Trẻ Tốt Nhất",
+    "description": "Phương pháp kỷ luật tích cực, lắng nghe và làm gương giúp cha mẹ nuôi dưỡng sự tự giác và lòng nhân ái trong tâm hồn trẻ.",
+    "url": "javascript:window.open('https://sachvatrithuc.com/meo-day-do-con-cai-hieu-qua-bi-quyet-nuoi-duong-va-giao-duc-tre-tot-nhat','_blank');void(0);",
+    "image": "https://assets.zyrosite.com/mnlv019kJgsPpbQM/111-YX4yjxPpgnS67nLx.png"
   }
 ]
